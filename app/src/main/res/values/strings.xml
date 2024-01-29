@@ -1,0 +1,78 @@
+<resources>
+
+    // Main
+    <string name="asl_alpha">American Sign Language Alphabet</string>
+    <string name="sign_language_ml">ASL Assist</string>
+    <string name="asl_assistant">American Sign Language Assistant</string>
+    <string name="app_name">绘 语</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Learning</string>
+    <string name="title_notifications">Personal</string>
+    // Recognition
+    <string name="recognition">Recognition</string>
+
+    // Training
+    <string name="training">Training</string>
+
+    // Speech-To-Text
+    <string name="speech_to_text">Speech-To-Text</string>
+
+    // Learning
+    <string name="learning">Learning</string>
+    <string name="learning_desc">Click Any Letter and View How To Sign It</string>
+    <string name="login">login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">signup</string>
+    <string name="asl_main">sign language instruction</string>
+    <string-array name="letters">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+
+    <string-array name="menu">
+        <item>汉语手指字母指示</item>
+        <item>常见词汇</item>
+        <item>使用规则</item>
+    </string-array>
+
+    <string-array name="words">
+        <item>付款</item>
+        <item>家属</item>
+        <item>生活</item>
+        <item>幸福</item>
+        <item>健康</item>
+    </string-array>
+
+    <string-array name="rules">
+        <item>手语是什么:手语是聋人群体之间使用的视觉语言，是通过眼睛来学习和交流的语言。</item>
+        <item>地方手语是什么:如同汉语有各地方言一样，手语也有各种不同的地方手语。当地流通已有约定俗称的若干个打法，这个当地打法叫做地方手语，地方手语是中国手语组成的一部分。</item>
+        <item>通用手语是什么:通用手语是以我国大多数地区使用的常用手语为基础推出的共同语，是聋人的“普通话”。是在听力残疾人语言生活和有关听力残疾人的公务活动、各级各类教育、电视和网络媒体、图书出版、公共服务、信息处理中的手语使用，以及手语水平等级考核中通行的手语。</item>
+    </string-array>
+
+</resources>
+
